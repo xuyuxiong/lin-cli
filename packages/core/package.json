@@ -1,6 +1,6 @@
 {
   "name": "@lin-cli/core",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "lin-cli core",
   "author": "xuyuxiong <1206205517@qq.com>",
   "homepage": "",
@@ -17,6 +17,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@lin-cli/utils": "0.0.0"
+    "@lin-cli/utils": "^0.1.0"
   }
 }
