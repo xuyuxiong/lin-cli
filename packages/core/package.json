@@ -21,5 +21,9 @@
   },
   "dependencies": {
     "@lin-cli/utils": "^0.2.0"
+  },
+  "gitHead": "ad9b714e3a64ff80e6f19154a0ad17026b331b2f",
+  "publishConfig": {
+    "access": "public"
   }
 }
